@@ -1,0 +1,17 @@
+.b{
+    display: grid;
+    place-content: center;
+    color: beige;
+}
+button{
+    height: 10em;
+    width: 10em;
+    border-radius: 10000000000000000px;
+    color: aqua;
+    background-color: yellowgreen;
+    font-family: 'Arial';
+    font-weight: bolder;
+}
+body{
+    background-color: green;
+}
